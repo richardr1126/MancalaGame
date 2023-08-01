@@ -56,17 +56,9 @@ The project is a Graphical User Interface (GUI) implementation of the "Mancala" 
 
 ---
 
-
-## 📂 Project Structure
-
-
-
-
----
-
 ## 🧩 Modules
 
-<details closed><summary>Root</summary>
+<summary>Root</summary>
 
 | File                                                                                                  | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---                                                                                                   | ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -85,55 +77,6 @@ The project is a Graphical User Interface (GUI) implementation of the "Mancala" 
 | [gamewindow.h](https://github.com/richardr1126/MancalaGameGUI/blob/main/gamewindow.h)                 | The provided code is for a gaming window interface in C++ using QMainWindow. It includes features to initialize the game (MakeBoard, HandoutMarbles), handle game dynamics (SwitchPlayer, DistributeMarblesFrom) & user events (start/end game). Auxiliary features like game alerts, verifying game conditions (checking for empty pits or declaring the winner) and special actions like stealing marbles system also exist.                                                                                     |
 
 </details>
-
----
-
-## 🚀 Getting Started
-
-### ✔️ Prerequisites
-
-Before you begin, ensure that you have the following prerequisites installed:
-> - `ℹ️ Requirement 1`
-> - `ℹ️ Requirement 2`
-> - `ℹ️ ...`
-
-### 📦 Installation
-
-1. Clone the MancalaGameGUI repository:
-```sh
-git clone https://github.com/richardr1126/MancalaGameGUI
-```
-
-2. Change to the project directory:
-```sh
-cd MancalaGameGUI
-```
-
-3. Install the dependencies:
-```sh
-g++ -o myapp main.cpp
-```
-
-### 🎮 Using MancalaGameGUI
-
-```sh
-./myapp
-```
-
-### 🧪 Running Tests
-```sh
-Insert test command.
-```
-
----
-
-
-## 🗺 Roadmap
-
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Refactor Y`
-> - [ ] `ℹ️ ...`
-
 
 ---
 
@@ -158,16 +101,3 @@ git push origin new-feature-branch
 7. Create a new pull request to the original project repository. In the pull request, describe the changes you've made and why they're necessary.
 The project maintainers will review your changes and provide feedback or merge them into the main branch.
 
----
-
-## 📄 License
-
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
-
----
-
-## 👏 Acknowledgments
-
-> - `ℹ️  List any resources, contributors, inspiration, etc.`
-
----
